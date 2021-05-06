@@ -64,7 +64,7 @@ ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:false
 ofFastMath:true
-ofFastRender:true
+ofFastRender:false
 ofTranslucentBlocks:0
 ofChatBackground:0
 ofChatShadow:true
